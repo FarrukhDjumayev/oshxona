@@ -6,7 +6,7 @@ import {BrowserRouter, Route, Routes} from "react-router-dom"
 import Login from "./pages/Login/Login";
 import {StrictMode} from "react"
 import RootGirgitton from "./pages/Girgitton/Root";
-import Oshpaz from "./pages/Oshpaz/oshpaz";
+import Oshpaz from "./pages/Oshpaz/Oshpaz";
 import Menu from "./pages/Girgitton/Menu";
 
 
